@@ -1,5 +1,7 @@
 <!-- Banner -->
-![Header](https://i.pinimg.com/736x/d0/0f/36/d00f36626bf7351724ef6ea587d87bde.jpg)
+<p align="center">
+  <img src="https://i.pinimg.com/736x/d0/0f/36/d00f36626bf7351724ef6ea587d87bde.jpg" width="500" alt="Header" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Arul</h1>
 <h3 align="center">💻 Informatics Student | Web & Mobile Developer</h3>
